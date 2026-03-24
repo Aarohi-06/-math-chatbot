@@ -1,4 +1,5 @@
-# Math Chat Bot
+# Math Chat Bot 🤖
+
 
 A conversational mathematical assistant built with Python, LangChain, and Groq. The agent uses a LLaMA 3.1 8B model and can converse normally, greet users, and solve complex mathematical expressions using a dedicated reasoning tool.
 
