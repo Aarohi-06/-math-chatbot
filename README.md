@@ -65,3 +65,5 @@ You: quit
 - [LangChain](https://www.langchain.com/) - Application framework for LLMs
 - [Groq](https://groq.com/) - Ultra-fast AI inference platform
 - [SymPy](https://www.sympy.org/) - Python library for symbolic mathematics
+
+##### This project is based on an existing implementation, used for learning and practice purposes. I have modified and explored it to understand concepts like API ntegration and environment setup.
